@@ -6,9 +6,12 @@ Also use
 - PHP
 - Js
 - JQuery/AJAX
+*******
 - DataTable
 - PayPal API
 - ChartJS
 - FontAwesome
 - SweetAlert
 - and Etc..
+
+Don't use for any commercial work without my permission
