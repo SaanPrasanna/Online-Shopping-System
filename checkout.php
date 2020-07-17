@@ -61,7 +61,7 @@
 
 
 <?php require_once('inc/common/footer.php') ?>
-<script src="https://www.paypal.com/sdk/js?client-id=AWCvkxUWzZTWUaj0UNfbcOnepFqg0eZjSs8b8l8JrMnHp31BKWr__YbIjoLpzN5ea94fe0tcT1TYXmis"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=<Paypal client id>"></script>
 
 <script>
 	$(document).ready(function() {
